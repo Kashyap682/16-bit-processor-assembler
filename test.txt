@@ -1,5 +1,5 @@
 L0:
 add,$r3,$r3,$r2
 add,$r2,$r2,$r1
-slt,$r5,$r0,$r2
+slt,$r5,$r2,$r0
 beq,$r5,$r1,L0
