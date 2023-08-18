@@ -64,4 +64,9 @@ $r7 | 1011 |
 2. Logical Instructions 
 3. Load and Store Instructions 
 4. Jump and Branch Instructions 
-5. Conditional Instructions 
+5. Conditional Instructions
+
+## Screenshots
+
+<a href="https://imgur.com/i86tsdD"><img width=290px src="https://i.imgur.com/i86tsdD.jpg" title="source: imgur.com" /></a> \
+<a href="https://imgur.com/UlYEvIX"><img width=290px src="https://i.imgur.com/UlYEvIX.jpg" title="source: imgur.com" /></a>
